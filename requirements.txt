@@ -1,0 +1,8 @@
+# Core memory engine with S3 (Tigris) support
+cognee[aws]
+
+# Loads .env before cognee is imported
+python-dotenv
+
+# OpenAI provider for embeddings + chat
+openai

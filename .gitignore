@@ -1,0 +1,26 @@
+# Secrets
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Cognee local cache (derived memory lives here on Windows)
+.cognee_system/
+.cognee_data/
+
+# Generated graph visualizations (regenerate with 06_visualize.py)
+graphs/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
